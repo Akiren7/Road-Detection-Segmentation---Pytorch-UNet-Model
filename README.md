@@ -57,7 +57,6 @@ Below are sample predictions from the validation set showing the original image,
 <img width="993" height="339" alt="__results___0_7" src="https://github.com/user-attachments/assets/86abacb9-3468-49b0-a512-a97595c178e9" />
 <img width="993" height="339" alt="__results___0_8" src="https://github.com/user-attachments/assets/7ac56682-4d3a-4553-a620-58146151b516" />
 <img width="993" height="339" alt="__results___0_2" src="https://github.com/user-attachments/assets/4bb9806b-952e-4d8c-ad74-31e93aa00298" />
-<img width="993" height="339" alt="__results___0_3" src="https://github.com/user-attachments/assets/ae88828a-05d2-4737-99d7-d31891c3cc03" />
 <img width="993" height="339" alt="__results___0_4" src="https://github.com/user-attachments/assets/564ec4a3-3eea-46e6-932d-4036c6f51b2f" />
 
 
