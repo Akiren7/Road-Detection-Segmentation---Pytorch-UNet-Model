@@ -26,10 +26,12 @@ The model is trained on a road segmentation dataset containing RGB images and co
 
 > **Note:** The dataset is not included in this repository due to size constraints. 
 1. Download the datasets from Kaggle:
+   
    Road Detection Segmentation: [https://www.kaggle.com/datasets/bahadrduran/road-detection-segmentation]
+   
    Test Images: [https://www.kaggle.com/datasets/bahadrduran/test-image]
    
-3. Extract the data and organize it into the following structure:
+4. Extract the data and organize it into the following structure:
    ```text
    /dataset
        /train
@@ -39,7 +41,7 @@ The model is trained on a road segmentation dataset containing RGB images and co
            /images
            /labels
    ```
-4. Update the directory paths in the main execution block of the code.
+5. Update the directory paths in the main execution block of the code.
 
 ## Installation & Requirements
 
