@@ -1,4 +1,4 @@
-# Autonomous Vehicle Road Detection & Segmentation
+<img width="993" height="339" alt="__results___0_1" src="https://github.com/user-attachments/assets/1dd34f36-febd-4621-96a8-08a3d4826f89" /># Autonomous Vehicle Road Detection & Segmentation
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,3 +32,36 @@ The model is trained on a road segmentation dataset containing RGB images and co
        /valid
            /images
            /labels
+3. Update the directory paths in the main execution block of the code.
+
+## Installation & Requirements
+
+To run this project, you need Python 3.8+ and the following libraries:
+pip install torch torchvision Pillow numpy matplotlib
+
+## Visual Results
+Below are sample predictions from the validation set showing the original image, the predicted binary mask, and the overlay.
+
+<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_1.png" />
+
+<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_2.png" />
+
+<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_3.png" />
+
+<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_4.png" />
+
+<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_5.png" />
+
+<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_6.png" />
+
+<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_7.png" />
+
+<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_8.png" />
+
+##How to Run
+Ensure your dataset is correctly linked.
+
+Run the training script or Jupyter Notebook:
+
+python road_segmentation.py
+# or open road-detection-segmentation-pytorch-unet-model.ipynb
