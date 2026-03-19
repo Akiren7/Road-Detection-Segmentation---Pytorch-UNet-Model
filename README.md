@@ -40,7 +40,6 @@ The model is trained on a road segmentation dataset containing RGB images and co
 ## Installation & Requirements
 
 To run this project, you need Python 3.8+ and the following libraries:
-   '''text
    pip install torch torchvision Pillow numpy matplotlib
    
 
