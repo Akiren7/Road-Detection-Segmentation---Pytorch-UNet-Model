@@ -1,8 +1,11 @@
-<img width="993" height="339" alt="__results___0_1" src="https://github.com/user-attachments/assets/1dd34f36-febd-4621-96a8-08a3d4826f89" /># Autonomous Vehicle Road Detection & Segmentation
+# Autonomous Vehicle Road Detection & Segmentation
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge)
+
+<img width="993" height="339" alt="__results___0_1" src="https://github.com/user-attachments/assets/1dd34f36-febd-4621-96a8-08a3d4826f89" /># Autonomous Vehicle Road Detection & Segmentation
+
 
 ## Overview
 This repository contains a deep learning project focused on real-time semantic segmentation of drivable road areas for autonomous driving applications. By leveraging a custom **UNet architecture** implemented in **PyTorch**, the model accurately parses YOLO-formatted polygon annotations into binary masks and predicts road boundaries with high precision and speed.
