@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge)
 
-<img width="993" height="339" alt="__results___0_1" src="https://github.com/user-attachments/assets/1dd34f36-febd-4621-96a8-08a3d4826f89" /># Autonomous Vehicle Road Detection & Segmentation
+<img width="993" height="339" alt="__results___0_1" src="https://github.com/user-attachments/assets/1dd34f36-febd-4621-96a8-08a3d4826f89" />
 
 
 ## Overview
