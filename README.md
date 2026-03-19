@@ -40,6 +40,7 @@ The model is trained on a road segmentation dataset containing RGB images and co
 ## Installation & Requirements
 
 To run this project, you need Python 3.8+ and the following libraries:
+
    pip install torch torchvision Pillow numpy matplotlib
    
 
@@ -61,4 +62,5 @@ Ensure your dataset is correctly linked.
 Run the training script or Jupyter Notebook:
 
 python road_segmentation.py
+
 # or open road-detection-segmentation-pytorch-unet-model.ipynb
