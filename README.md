@@ -75,6 +75,6 @@ python road_segmentation.py
 
 🤝 Let's Connect
 
-Kaggle:<a href="https://www.google.com/search?q=https://www.kaggle.com/barbabekleyen"> barbabekleyen </a>
+Kaggle:<a href="https://www.kaggle.com/barbabekleyen"> barbabekleyen </a>
 
 LinkedIn: <a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-ba%C4%9Fbekleyen-68a720296/?originalSubdomain=tr"> Barış Bağbekleyen</a>
