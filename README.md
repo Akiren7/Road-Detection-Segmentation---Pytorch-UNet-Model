@@ -42,21 +42,14 @@ pip install torch torchvision Pillow numpy matplotlib
 ## Visual Results
 Below are sample predictions from the validation set showing the original image, the predicted binary mask, and the overlay.
 
-<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_1.png" />
+<img width="993" height="339" alt="__results___0_5" src="https://github.com/user-attachments/assets/aef7a789-190c-4900-bbeb-c292edeece90" />
+<img width="993" height="339" alt="__results___0_6" src="https://github.com/user-attachments/assets/3203fa24-1062-4fe8-b2d4-aa063c1e8610" />
+<img width="993" height="339" alt="__results___0_7" src="https://github.com/user-attachments/assets/86abacb9-3468-49b0-a512-a97595c178e9" />
+<img width="993" height="339" alt="__results___0_8" src="https://github.com/user-attachments/assets/7ac56682-4d3a-4553-a620-58146151b516" />
+<img width="993" height="339" alt="__results___0_2" src="https://github.com/user-attachments/assets/4bb9806b-952e-4d8c-ad74-31e93aa00298" />
+<img width="993" height="339" alt="__results___0_3" src="https://github.com/user-attachments/assets/ae88828a-05d2-4737-99d7-d31891c3cc03" />
+<img width="993" height="339" alt="__results___0_4" src="https://github.com/user-attachments/assets/564ec4a3-3eea-46e6-932d-4036c6f51b2f" />
 
-<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_2.png" />
-
-<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_3.png" />
-
-<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_4.png" />
-
-<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_5.png" />
-
-<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_6.png" />
-
-<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_7.png" />
-
-<img width="993" height="339" alt="__results___0_1" src="result images/__results__0_8.png" />
 
 ##How to Run
 Ensure your dataset is correctly linked.
