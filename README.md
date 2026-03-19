@@ -61,7 +61,8 @@ Below are sample predictions from the validation set showing the original image,
 <img width="993" height="339" alt="__results___0_4" src="https://github.com/user-attachments/assets/564ec4a3-3eea-46e6-932d-4036c6f51b2f" />
 
 
-##How to Run
+## How to Run
+
 1.Ensure your dataset is correctly linked.
 
 2.Run the training script or Jupyter Notebook:
