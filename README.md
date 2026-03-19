@@ -25,8 +25,11 @@ The model uses a classic **UNet** fully convolutional network architecture desig
 The model is trained on a road segmentation dataset containing RGB images and corresponding YOLO polygon annotations (`.txt` files).
 
 > **Note:** The dataset is not included in this repository due to size constraints. 
-1. Download the dataset from Kaggle: [Insert Kaggle Dataset Link Here]
-2. Extract the data and organize it into the following structure:
+1. Download the datasets from Kaggle:
+   Road Detection Segmentation: [https://www.kaggle.com/datasets/bahadrduran/road-detection-segmentation]
+   Test Images: [https://www.kaggle.com/datasets/bahadrduran/test-image]
+   
+3. Extract the data and organize it into the following structure:
    ```text
    /dataset
        /train
@@ -35,19 +38,19 @@ The model is trained on a road segmentation dataset containing RGB images and co
        /valid
            /images
            /labels
-3. Update the directory paths in the main execution block of the code.
+   ```
+4. Update the directory paths in the main execution block of the code.
 
 ## Installation & Requirements
 
 To run this project, you need Python 3.8+ and the following libraries:
-
-   --pip install torch torchvision Pillow numpy matplotlib--
-   
+```
+pip install torch torchvision Pillow numpy matplotlib
+```   
 
 ## Visual Results
 Below are sample predictions from the validation set showing the original image, the predicted binary mask, and the overlay.
 
-<img width="993" height="339" alt="__results___0_5" src="https://github.com/user-attachments/assets/aef7a789-190c-4900-bbeb-c292edeece90" />
 <img width="993" height="339" alt="__results___0_6" src="https://github.com/user-attachments/assets/3203fa24-1062-4fe8-b2d4-aa063c1e8610" />
 <img width="993" height="339" alt="__results___0_7" src="https://github.com/user-attachments/assets/86abacb9-3468-49b0-a512-a97595c178e9" />
 <img width="993" height="339" alt="__results___0_8" src="https://github.com/user-attachments/assets/7ac56682-4d3a-4553-a620-58146151b516" />
@@ -57,10 +60,18 @@ Below are sample predictions from the validation set showing the original image,
 
 
 ##How to Run
-Ensure your dataset is correctly linked.
+1.Ensure your dataset is correctly linked.
 
-Run the training script or Jupyter Notebook:
-
+2.Run the training script or Jupyter Notebook:
+```
 python road_segmentation.py
-
 # or open road-detection-segmentation-pytorch-unet-model.ipynb
+```
+
+3. The script will output training/validation loss and Dice scores per epoch, saving the best model weights to **best_road_segmentation_model.pth.**
+
+🤝 Let's Connect
+
+Kaggle: barbabekleyen
+
+LinkedIn: Barış Bağbekleyen
